@@ -19,7 +19,11 @@
 
 Τα τμήματα του μοντέλου εισάγονται σε slicer κατάλληλο ανάλογα με τον διαθέσιμο 3D printer και εκτυπώνονται ένα ένα ή όλα μαζί.
 
-![slicer](images/print.png)
+|         Slicer          |       3D printer      |
+|:----------------------------------:|:------------------------------------:|
+| ![slicer](images/print.png) | ![inprinter](images/inprinter.jpg) |
+|         Στο τρίποδο         |            Με την ταμπλετα             |
+| ![onmount](images/onmount.jpg) | ![withtablet](images/withtablet.jpg) |
 
 Η διάθεση του έργου αυτού γίνεται με άδεια Creative Commons Αναφορά Δημιουργού - Μη Εμπορική Χρήση - Παρόμοια Διανομή 3.0 Ελλάδα (CC BY-NC-SA 3.0 GR).
 
